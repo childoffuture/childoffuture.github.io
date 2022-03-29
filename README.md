@@ -1,3 +1,4 @@
 # moduleE10_homework
 
-TEST
+Адрес GitHub pages для просмотра страницы:
+https://childoffuture.github.io/
